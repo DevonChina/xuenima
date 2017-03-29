@@ -1,0 +1,12 @@
+{
+    "require":{
+	"mustache/mustache":"^2.11.1",
+	"phpunit/phpunit":"^6.0.10"
+    },
+    "require-dev":{
+	"monolog/monolog":"^1.1.7"
+    },
+    "scripts":{
+    "post-install-cmd":"echo \"Hello FanXiao2\""
+    }
+}
