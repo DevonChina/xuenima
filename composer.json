@@ -1,0 +1,14 @@
+{
+    "name": "xuenima/xuenima",
+    "description": "xuenima demo",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DevonChina",
+            "email": "admin@fanxiao2.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
